@@ -1,4 +1,5 @@
 # game-flappy-bird
+<b>Sử dụng ngôn ngữ Python</b><br>
 <b>sản phẩm flappy bird</b>
 <br>
 <img width="329" alt="image" src="https://github.com/VuQuangTung2002/game-flappy-bird/assets/144264093/e67f913f-8c29-4e20-acbe-e858dff9f132">
